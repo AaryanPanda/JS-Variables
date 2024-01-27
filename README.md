@@ -1,3 +1,3 @@
 # JS-Variables
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/AaryanPanda/JS-Variables)
+Complete the challenges in script.js file by using JS Variables knowledge.
